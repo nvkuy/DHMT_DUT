@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678036993 source:e:\university\works\dhmt\lab2\main.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<bits/stdc++.h>
+
