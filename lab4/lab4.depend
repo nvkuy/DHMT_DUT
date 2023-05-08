@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678615873 source:e:\university\works\dhmt\lab4\main.cpp
+	<windows.h>
+	<cstdio>
+	<cmath>
+	<GL/glut.h>
+
